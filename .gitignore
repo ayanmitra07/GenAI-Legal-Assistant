@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Models
+models/*.gguf
+
+# Output files
+output/*.npy
+output/*.index
+output/*.json
+
+# OS files
+.DS_Store
+Thumbs.db

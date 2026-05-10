@@ -1,0 +1,18 @@
+# ============================================================
+# SECTION 1 — CONFIGURATION & INITIALIZATION
+# ---------------------------
+# Install Dependencies
+# ---------------------------
+pip install faiss-cpu rank-bm25 sentence-transformers pandas numpy tqdm
+Library	                Purpose
+faiss	                vector database
+rank-bm25	            keyword search
+sentence-transformers	embeddings
+pandas	                data handling
+numpy	                vector math
+tqdm	                progress bars
+
+#================================================================
+
+SECTION 1B Local LLM(installs the local LLM inference engine)
+pip install llama-cpp-python
