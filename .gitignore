@@ -16,3 +16,6 @@ output/*.json
 # OS files
 .DS_Store
 Thumbs.db
+
+#constitution_tm
+constitution_tm/
